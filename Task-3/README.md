@@ -127,7 +127,7 @@ Java DSA                  Similarity Score: 0.00
 
 **Sahil Srivastava**
 
-B.Tech CSE (AI & ML)
+B.Tech CSE-AIML
 
 DecodeLabs Artificial Intelligence Internship – Task 3
 
